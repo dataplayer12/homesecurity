@@ -2,6 +2,7 @@ from picamera.array import PiRGBArray
 from picamera import PiCamera
 import cv2, time, os
 #import send_email
+import Queue
 import numpy as np
 from config import * #h264_folder, mp4_folder, motion_threshold,log_dir,log_file,countfile
 from file_manager import FileManagerThread, FileCleanerThread, counter
@@ -33,9 +34,10 @@ fmt= FileManagerThread(h264_q=file_q)
 fmt.start()
 
 def record_for(rec_time):
-	this_file='video{}.h264'.format(video_num)
+    video_num=file_counter.get_current_count()
+    this_file='video{}.h264'.format(video_num)
     if this_file in os.listdir(h264_folder):
-    	os.remove(h264_folder+this_file)
+        os.remove(h264_folder+this_file)
     #remove this file, if it already exists
 
     camera.start_recording(h264_folder+this_file)

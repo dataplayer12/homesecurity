@@ -1,0 +1,1105 @@
+some_garbage
+some_garbage
+Sun, 13 Jan 2019 00:52:35
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:38
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:40
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:42
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:43
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:44
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:46
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:47
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:48
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:52
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:54
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:55
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:56
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:57
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:52:59
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:53:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:53:01
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:53:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:53:04
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32')]
+
+Sun, 13 Jan 2019 00:53:08
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:12
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:14
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:20
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:29
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04')]
+
+Sun, 13 Jan 2019 00:53:34
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:42
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:45
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:53
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:53:57
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:01
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:05
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:09
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:13
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:16
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29')]
+
+Sun, 13 Jan 2019 00:54:21
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16')]
+
+Sun, 13 Jan 2019 00:54:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16')]
+
+Sun, 13 Jan 2019 00:54:31
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16')]
+
+Sun, 13 Jan 2019 00:54:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16')]
+
+Sun, 13 Jan 2019 00:54:41
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16')]
+
+Sun, 13 Jan 2019 00:54:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:54:56
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:01
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:07
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:13
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:19
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:27
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:32
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:38
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41')]
+
+Sun, 13 Jan 2019 00:55:47
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38')]
+
+Sun, 13 Jan 2019 00:55:55
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38')]
+
+Sun, 13 Jan 2019 00:56:03
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38')]
+
+Sun, 13 Jan 2019 00:56:11
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38')]
+
+Sun, 13 Jan 2019 00:56:19
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11')]
+
+Sun, 13 Jan 2019 00:56:27
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11')]
+
+Sun, 13 Jan 2019 00:56:36
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11')]
+
+Sun, 13 Jan 2019 00:56:46
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:56:56
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:06
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:15
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:24
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:34
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:43
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:57:54
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:58:05
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:58:15
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:58:25
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:58:35
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:58:46
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36')]
+
+Sun, 13 Jan 2019 00:59:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46')]
+
+Sun, 13 Jan 2019 00:59:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46')]
+
+Sun, 13 Jan 2019 00:59:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46')]
+
+Sun, 13 Jan 2019 00:59:36
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+
+Sun, 13 Jan 2019 00:59:59
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:00:12
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:00:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:00:34
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:00:42
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:43
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:45
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:47
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:48
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:00:48
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:49
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:51
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:52
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:54
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:55
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:56
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:58
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:00:59
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:01:00
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:02
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:03
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:04
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:06
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:08
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:10
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39')]
+
+Sun, 13 Jan 2019 01:01:13
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:01:14
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:16
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:18
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:21
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:24
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:25
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:01:26
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:28
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:31
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:34
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:37
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:38
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:01:39
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10')]
+
+Sun, 13 Jan 2019 01:01:44
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:01:48
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:01:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:01:53
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:01:56
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:02:00
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:02:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:02:04
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:02:08
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39')]
+
+Sun, 13 Jan 2019 01:02:12
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:02:14
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08')]
+
+Sun, 13 Jan 2019 01:02:19
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08')]
+
+Sun, 13 Jan 2019 01:02:24
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08')]
+
+Sun, 13 Jan 2019 01:02:25
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:02:29
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08')]
+
+Sun, 13 Jan 2019 01:02:34
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08')]
+
+Sun, 13 Jan 2019 01:02:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:02:42
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34')]
+
+Sun, 13 Jan 2019 01:02:48
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34')]
+
+Sun, 13 Jan 2019 01:02:48
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:02:54
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34')]
+
+Sun, 13 Jan 2019 01:03:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:03:00
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34')]
+
+Sun, 13 Jan 2019 01:03:06
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34')]
+
+Sun, 13 Jan 2019 01:03:13
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:03:15
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06')]
+
+Sun, 13 Jan 2019 01:03:22
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06')]
+
+Sun, 13 Jan 2019 01:03:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:03:33
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06')]
+
+Sun, 13 Jan 2019 01:03:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:03:40
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06')]
+
+Sun, 13 Jan 2019 01:03:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:02
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40')]
+
+Sun, 13 Jan 2019 01:04:03
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:11
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40')]
+
+Sun, 13 Jan 2019 01:04:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:23
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11')]
+
+Sun, 13 Jan 2019 01:04:30
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:32
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11')]
+
+Sun, 13 Jan 2019 01:04:43
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:45
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32')]
+
+Sun, 13 Jan 2019 01:04:54
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:04:55
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32')]
+
+Sun, 13 Jan 2019 01:05:06
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:05:09
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55')]
+
+Sun, 13 Jan 2019 01:05:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:05:20
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55')]
+
+Sun, 13 Jan 2019 01:05:28
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:05:34
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20')]
+
+Sun, 13 Jan 2019 01:05:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:05:47
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20')]
+
+Sun, 13 Jan 2019 01:05:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:06:02
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47')]
+
+Sun, 13 Jan 2019 01:06:03
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:06:16
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:06:18
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47')]
+
+Sun, 13 Jan 2019 01:06:28
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:06:32
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47')]
+
+Sun, 13 Jan 2019 01:06:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:06:48
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32')]
+
+Sun, 13 Jan 2019 01:06:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:04
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32')]
+
+Sun, 13 Jan 2019 01:07:14
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:22
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04')]
+
+Sun, 13 Jan 2019 01:07:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:39
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04')]
+
+Sun, 13 Jan 2019 01:07:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:07:58
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39')]
+
+Sun, 13 Jan 2019 01:08:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:08:14
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:08:16
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39')]
+
+Sun, 13 Jan 2019 01:08:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:08:38
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16')]
+
+Sun, 13 Jan 2019 01:08:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:08:51
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:09:02
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38')]
+
+Sun, 13 Jan 2019 01:09:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:09:15
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:09:23
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38')]
+
+Sun, 13 Jan 2019 01:09:28
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:09:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:09:47
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23')]
+
+Sun, 13 Jan 2019 01:09:52
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:05
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:08
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23')]
+
+Sun, 13 Jan 2019 01:10:18
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:30
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:32
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23')]
+
+Sun, 13 Jan 2019 01:10:45
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:57
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:10:58
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32')]
+
+Sun, 13 Jan 2019 01:11:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:11:21
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32')]
+
+Sun, 13 Jan 2019 01:11:21
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:11:33
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:11:45
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:11:46
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32'), ('video29.mp4', 'Sun, 13 Jan 2019 01:11:21')]
+
+Sun, 13 Jan 2019 01:11:56
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:12:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:12:18
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32'), ('video29.mp4', 'Sun, 13 Jan 2019 01:11:21'), ('video30.mp4', 'Sun, 13 Jan 2019 01:11:49')]
+
+Sun, 13 Jan 2019 01:12:22
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:12:36
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:12:48
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32'), ('video29.mp4', 'Sun, 13 Jan 2019 01:11:21'), ('video30.mp4', 'Sun, 13 Jan 2019 01:11:49'), ('video31.mp4', 'Sun, 13 Jan 2019 01:12:18')]
+
+Sun, 13 Jan 2019 01:12:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:13:05
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:13:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:13:17
+[('video10.mp4', 'Sun, 13 Jan 2019 01:00:39'), ('video11.mp4', 'Sun, 13 Jan 2019 01:01:10'), ('video12.mp4', 'Sun, 13 Jan 2019 01:01:39'), ('video13.mp4', 'Sun, 13 Jan 2019 01:02:08'), ('video14.mp4', 'Sun, 13 Jan 2019 01:02:34'), ('video15.mp4', 'Sun, 13 Jan 2019 01:03:06'), ('video16.mp4', 'Sun, 13 Jan 2019 01:03:40'), ('video17.mp4', 'Sun, 13 Jan 2019 01:04:11'), ('video18.mp4', 'Sun, 13 Jan 2019 01:04:32'), ('video19.mp4', 'Sun, 13 Jan 2019 01:04:55'), ('video20.mp4', 'Sun, 13 Jan 2019 01:05:20'), ('video21.mp4', 'Sun, 13 Jan 2019 01:05:47'), ('video22.mp4', 'Sun, 13 Jan 2019 01:06:32'), ('video23.mp4', 'Sun, 13 Jan 2019 01:07:04'), ('video24.mp4', 'Sun, 13 Jan 2019 01:07:39'), ('video25.mp4', 'Sun, 13 Jan 2019 01:08:16'), ('video26.mp4', 'Sun, 13 Jan 2019 01:08:38'), ('video27.mp4', 'Sun, 13 Jan 2019 01:09:23'), ('video28.mp4', 'Sun, 13 Jan 2019 01:10:32'), ('video29.mp4', 'Sun, 13 Jan 2019 01:11:21'), ('video30.mp4', 'Sun, 13 Jan 2019 01:11:49'), ('video31.mp4', 'Sun, 13 Jan 2019 01:12:18')]
+
+Sun, 13 Jan 2019 01:13:31
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:05
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:18
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:29
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:31
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:32
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:33
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:35
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:36
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:37
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:38
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:39
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:41
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:41
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:43
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:44
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:46
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:47
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:49
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:50
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:51
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:52
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:54
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:16:54
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:16:56
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26')]
+
+Sun, 13 Jan 2019 01:17:00
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:03
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:05
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:06
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:17:07
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:09
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:12
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:14
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:16
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:18
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:19
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:17:21
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:24
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:26
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56')]
+
+Sun, 13 Jan 2019 01:17:30
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:31
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:17:35
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:39
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:42
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:43
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:17:46
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:50
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26')]
+
+Sun, 13 Jan 2019 01:17:56
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:17:56
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:02
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:08
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:09
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:18:13
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:19
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:21
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:18:25
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50')]
+
+Sun, 13 Jan 2019 01:18:31
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:18:33
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:18:37
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:18:44
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:18:45
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:18:50
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:18:56
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:18:57
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:19:03
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25')]
+
+Sun, 13 Jan 2019 01:19:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:19:14
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03')]
+
+Sun, 13 Jan 2019 01:19:21
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03')]
+
+Sun, 13 Jan 2019 01:19:24
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:19:28
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03')]
+
+Sun, 13 Jan 2019 01:19:37
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28')]
+
+Sun, 13 Jan 2019 01:19:37
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:19:44
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28')]
+
+Sun, 13 Jan 2019 01:19:48
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:19:54
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28')]
+
+Sun, 13 Jan 2019 01:19:59
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:20:03
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28')]
+
+Sun, 13 Jan 2019 01:20:11
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:20:12
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28')]
+
+Sun, 13 Jan 2019 01:20:21
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12')]
+
+Sun, 13 Jan 2019 01:20:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:20:31
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12')]
+
+Sun, 13 Jan 2019 01:20:34
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:20:41
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12')]
+
+Sun, 13 Jan 2019 01:20:46
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:20:54
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41')]
+
+Sun, 13 Jan 2019 01:20:59
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:21:05
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41')]
+
+Sun, 13 Jan 2019 01:21:11
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:21:15
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41')]
+
+Sun, 13 Jan 2019 01:21:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:21:29
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15')]
+
+Sun, 13 Jan 2019 01:21:35
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:21:40
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15')]
+
+Sun, 13 Jan 2019 01:21:47
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:21:56
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40')]
+
+Sun, 13 Jan 2019 01:22:00
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:22:09
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40')]
+
+Sun, 13 Jan 2019 01:22:13
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:22:23
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40')]
+
+Sun, 13 Jan 2019 01:22:26
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:22:37
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40')]
+
+Sun, 13 Jan 2019 01:22:39
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:22:51
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:22:52
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37')]
+
+Sun, 13 Jan 2019 01:23:04
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:23:06
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37')]
+
+Sun, 13 Jan 2019 01:23:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:23:23
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:23:29
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:23:38
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:23:42
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:23:53
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:23:54
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:24:06
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:24:09
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:24:18
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:24:23
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:24:31
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:24:40
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:24:44
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:24:55
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:24:56
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:25:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:25:12
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:25:24
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:25:30
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:25:36
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:25:46
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:25:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:26:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:26:02
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:26:14
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:26:19
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:26:27
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:26:35
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:26:40
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:26:51
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:26:53
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:27:06
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:27:09
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:27:18
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:27:26
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:27:31
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:27:44
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:27:45
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:27:58
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:28:03
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:28:10
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:28:19
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:28:23
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:28:34
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:28:35
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:28:49
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:28:51
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:29:01
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:29:08
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:29:12
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:29:23
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:29:25
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:29:38
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:29:39
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:29:50
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:29:55
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:30:02
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:30:14
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:30:16
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:30:29
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:30:29
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:30:41
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:30:46
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:30:53
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:31:01
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:31:04
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:31:17
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:31:18
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:31:29
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:31:35
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:31:43
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:31:52
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:31:55
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:32:08
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:32:08
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:32:21
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:32:24
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:32:32
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]
+Sun, 13 Jan 2019 01:32:42
+[('video32.mp4', 'Sun, 13 Jan 2019 01:16:26'), ('video33.mp4', 'Sun, 13 Jan 2019 01:16:56'), ('video34.mp4', 'Sun, 13 Jan 2019 01:17:26'), ('video35.mp4', 'Sun, 13 Jan 2019 01:17:50'), ('video36.mp4', 'Sun, 13 Jan 2019 01:18:25'), ('video37.mp4', 'Sun, 13 Jan 2019 01:19:03'), ('video38.mp4', 'Sun, 13 Jan 2019 01:19:28'), ('video39.mp4', 'Sun, 13 Jan 2019 01:20:12'), ('video40.mp4', 'Sun, 13 Jan 2019 01:20:41'), ('video41.mp4', 'Sun, 13 Jan 2019 01:21:15'), ('video42.mp4', 'Sun, 13 Jan 2019 01:21:40'), ('video43.mp4', 'Sun, 13 Jan 2019 01:22:37'), ('video44.mp4', 'Sun, 13 Jan 2019 01:23:06')]
+
+Sun, 13 Jan 2019 01:32:46
+[('video0.mp4', 'Sun, 13 Jan 2019 00:52:32'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:04'), ('video0.mp4', 'Sun, 13 Jan 2019 00:53:29'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:16'), ('video0.mp4', 'Sun, 13 Jan 2019 00:54:41'), ('video0.mp4', 'Sun, 13 Jan 2019 00:55:38'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:11'), ('video0.mp4', 'Sun, 13 Jan 2019 00:56:36'), ('video0.mp4', 'Sun, 13 Jan 2019 00:58:46'), ('video0.mp4', 'Sun, 13 Jan 2019 00:59:23')]

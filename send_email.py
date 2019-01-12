@@ -32,8 +32,8 @@ def send_mail(send_from=MY_EMAIL, send_to=RECEPIENT, subject=SUBJECT, files=['vi
 
     server="smtp.gmail.com"
     port=587
-    username=MY_EMAIL[0],
-    password=MY_PASSWD,
+    username=MY_EMAIL[0]
+    password=MY_PASSWD
     isTls=True
 
     msg = MIMEMultipart()
@@ -52,8 +52,11 @@ def send_mail(send_from=MY_EMAIL, send_to=RECEPIENT, subject=SUBJECT, files=['vi
         msg.attach(part)
 
     smtp = smtplib.SMTP(server, port)
-    if isTls: 
+    if isTls:
+        smtp.ehlo()
         smtp.starttls()
+        smtp.ehlo()
+        #print(username)
         smtp.login(username,password)
         smtp.sendmail(send_from, send_to, msg.as_string())
         smtp.quit()
