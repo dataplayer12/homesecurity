@@ -4,7 +4,7 @@ import urllib.request, urllib.parse, urllib.error
 import send_email as sem
 from config import h264_folder, mp4_folder, motion_threshold,log_dir,log_file,logwrite_th
 import human_detect as hd
-
+from copy import deepcopy
 os.environ['TZ']= 'Asia/Kolkata'
 time.tzset()
 
@@ -26,6 +26,7 @@ class FileManagerThread(threading.Thread):
         self.stoprequest = threading.Event()
         self.files_sent=[]
         self.files_not_sent=[]
+        self.last_files_not_sent=[]
         self.time_last_written=time.time()
 
     def run(self):
@@ -75,23 +76,26 @@ class FileManagerThread(threading.Thread):
                 if time.time()-self.time_last_written>logwrite_th:
                     self.time_last_written=time.time()
                     if len(self.files_not_sent)>0:
-                        with open(log_dir+log_file,'a')  as f:
-                            f.write(time.strftime("%a, %d %b %Y %H:%M:%S\n",time.localtime()))
-                            f.write(str(self.files_not_sent))
-                            f.write('\n')
-                            f.write('\n')
+                        if self.files_not_sent != self.last_files_not_sent:
+                            self.last_files_not_sent=deepcopy(self.files_not_sent)
+                            with open(log_dir+log_file,'a')  as f:
+                                f.write(time.strftime("%a, %d %b %Y %H:%M:%S\n",time.localtime()))
+                                f.write(str(self.files_not_sent))
+                                f.write('\n')
+                                f.write('\n')
 
     def join(self, timeout=None):
         self.stoprequest.set()
         super(FileManagerThread, self).join(timeout)
 
     def _connected(self):
-        try:
-            urllib.request.urlopen('http://www.google.com')
-            return True
-        except Exception as err:
-            print(err)
-            return False
+        return True
+        # try:
+        #     urllib.request.urlopen('http://www.google.com')
+        #     return True
+        # except Exception as err:
+        #     print(err)
+        #     return False
 
 class FileCleanerThread(threading.Thread):
     def __init__(self):
@@ -135,12 +139,13 @@ class FileCleanerThread(threading.Thread):
         super(FileCleanerThread, self).join(timeout)
 
     def _connected(self):
-        try:
-            urllib.request.urlopen('http://www.google.com')
-            return True
-        except Exception as err:
-            print(err)
-            return False
+        return True
+        # try:
+        #     urllib.request.urlopen('http://www.google.com')
+        #     return True
+        # except Exception as err:
+        #     print(err)
+        #     return False
 
 class counter(object):
     def __init__(self,countfile):
