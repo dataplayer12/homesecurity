@@ -2,19 +2,19 @@ from picamera.array import PiRGBArray
 from picamera import PiCamera
 import cv2, time, os
 #import send_email
-import Queue
+import queue
 import numpy as np
 from config import * #h264_folder, mp4_folder, motion_threshold,log_dir,log_file,countfile
 from file_manager import FileManagerThread, FileCleanerThread, counter
 
-file_q = Queue.Queue()
+file_q = queue.Queue()
 
 os.environ['TZ']= location
 time.tzset()
 
-print('Time: {}. Starting...'.format(time.strftime("%a, %d %b %Y %H:%M:%S",time.localtime())))
+print(('Time: {}. Starting...'.format(time.strftime("%a, %d %b %Y %H:%M:%S",time.localtime()))))
 print('Finished importing modules')
-print('Sleeping for {} seconds'.format(initial_sleep))
+print(('Sleeping for {} seconds'.format(initial_sleep)))
 time.sleep(initial_sleep)
 
 camera=PiCamera()
@@ -41,7 +41,7 @@ def record_for(rec_time):
     #remove this file, if it already exists
 
     camera.start_recording(h264_folder+this_file)
-    print 'Video recording started'
+    print('Video recording started')
     camera.wait_recording(rec_time)
     camera.stop_recording()
     file_counter.update_count()
@@ -68,7 +68,7 @@ if __name__ == '__main__':
 
         if count%50==0:
             not_beginning=True
-            print('frame rate={}'.format(count/(time.time()-start)))
+            print(('frame rate={}'.format(count/(time.time()-start))))
 
         if not_beginning and motion_magnitude>=motion_threshold:
             print('Motion detected!!')

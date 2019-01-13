@@ -26,9 +26,8 @@ from email.mime.text import MIMEText
 from email.utils import COMMASPACE, formatdate
 from email import encoders
 
-def send_mail(send_from=MY_EMAIL, send_to=RECEPIENT, subject=SUBJECT, files=['video0.mp4'], text=None):
-    if text is None:
-        text="Motion detected in your room at {}. Please see attached video.\n".format(time.strftime("%a, %d %b %Y %H:%M:%S",time.localtime()))
+def send_mail(send_from=MY_EMAIL, send_to=RECEPIENT, subject=SUBJECT, files=['video0.mp4'], text=''):
+    text+="Motion detected in your room at {}. Please see attached video.\n".format(time.strftime("%a, %d %b %Y %H:%M:%S",time.localtime()))
 
     server="smtp.gmail.com"
     port=587

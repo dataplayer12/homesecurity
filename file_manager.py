@@ -1,8 +1,9 @@
 import os, time
-import threading, Queue
-import urllib
+import threading, queue
+import urllib.request, urllib.parse, urllib.error
 import send_email as sem
 from config import h264_folder, mp4_folder, motion_threshold,log_dir,log_file,logwrite_th
+import human_detect as hd
 
 os.environ['TZ']= 'Asia/Kolkata'
 time.tzset()
@@ -36,21 +37,31 @@ class FileManagerThread(threading.Thread):
         while not self.stoprequest.isSet():
             try:
                 h264_filename = self.h264_q.get(True, 0.05)
-                mp4_name=h264_filename[:h264_filename.rfind('.')]+'.mp4'
+                fname=mp4_folder+h264_filename[:h264_filename.rfind('.')]+'.mp4'
                 now=time.strftime("%a, %d %b %Y %H:%M:%S",time.localtime())
-                os.system("rm {}".format(mp4_folder+mp4_name))
-                os.system("MP4Box -add {} {}".format(h264_folder+h264_filename,mp4_folder+mp4_name))
-                #os.system("python -u send_email.py {}".format(mp4_name))
+                os.system("rm {}".format(fname))
+                os.system("MP4Box -add {} {}".format(h264_folder+h264_filename,fname))
+                #os.system("python -u send_email.py {}".format(fname))
                 os.remove(h264_folder+h264_filename)
                 try:
-                    sem.send_mail(files=[mp4_folder+mp4_name])
-                    self.files_sent.append((mp4_name,now))
-                    os.remove(mp4_folder+mp4_name)
-                except:
-                    self.files_not_sent.append((mp4_name,now))
+                    should_send,message=hd.determine_if_person_in(fname)
+                    #if not should_send:
+                    if should_send:
+                        jpeg_name=fname[:fname.rfind('.')+1]+'jpg'
+                        if os.path.exists(jpeg_name):
+                            send_list=[fname,jpeg_name]
+                        else:
+                            send_list=[fname]
+                        sem.send_mail(files=send_list,text=message)
+                        self.files_sent.append((fname,now))
+                        os.remove(fname)
+                except Exception as e:
+                    print(str(e))
+                    #if should_send:
+                    self.files_not_sent.append((fname,now))
 #                else:
-#                    self.files_not_sent.append(mp4_name)
-            except Queue.Empty:
+#                    self.files_not_sent.append(fname)
+            except queue.Empty:
                 #if nothing to do, we try to push files not sent earlier
                 if self._connected() and len(self.files_not_sent)>0:
                     for f,now in self.files_not_sent:
@@ -62,6 +73,7 @@ class FileManagerThread(threading.Thread):
                         except:
                             continue
                 if time.time()-self.time_last_written>logwrite_th:
+                    self.time_last_written=time.time()
                     if len(self.files_not_sent)>0:
                         with open(log_dir+log_file,'a')  as f:
                             f.write(time.strftime("%a, %d %b %Y %H:%M:%S\n",time.localtime()))
@@ -75,9 +87,9 @@ class FileManagerThread(threading.Thread):
 
     def _connected(self):
         try:
-            urllib.urlopen('http://www.google.com')
+            urllib.request.urlopen('http://www.google.com')
             return True
-        except Exception, err:
+        except Exception as err:
             print(err)
             return False
 
@@ -124,9 +136,9 @@ class FileCleanerThread(threading.Thread):
 
     def _connected(self):
         try:
-            urllib.urlopen('http://www.google.com')
+            urllib.request.urlopen('http://www.google.com')
             return True
-        except Exception, err:
+        except Exception as err:
             print(err)
             return False
 
@@ -149,7 +161,7 @@ class counter(object):
         try:
             with open(self.log,'r') as f:
                 count=int(f.read())
-        except Exception, e:
-            print(str(e))
+        except Exception as e:
+            print((str(e)))
             count=0
         return count
