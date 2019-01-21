@@ -63,6 +63,7 @@ odapi = DetectorAPI(path_to_ckpt=model_path)
 threshold = 0.5
 
 def determine_if_person_in(fname,threshold=0.5):
+    print('Analyzing file {} to find human in video'.format(fname))
     jpeg_name=fname[:fname.rfind('.')+1]+'jpg'
     video=cv2.VideoCapture(fname)
     n_frames=video.get(cv2.CAP_PROP_FRAME_COUNT)
@@ -79,7 +80,9 @@ def determine_if_person_in(fname,threshold=0.5):
         if not ret:
             video.release()
             #print('Could not read frame. Returning')
-            return True, 'Could not check the video. '
+            message='Could not check the video. '
+            print(message)
+            return True, message
         else:
             boxes, scores, classes, num= odapi.processFrame(frame)
 
@@ -94,8 +97,12 @@ def determine_if_person_in(fname,threshold=0.5):
                         box=boxes[i]
                         cv2.rectangle(frame,(box[1],box[0]),(box[3],box[2]),(255,0,0),2)
                 cv2.imwrite(jpeg_name,frame)
-                return True,'There is someone in the room. ' #if person is found in any frame, the function returns True
-    return False,'Person not found in video. '
+                message='There is someone in the room. '
+                print(message)
+                return True,message #if person is found in any frame, the function returns True
+    message='Person not found in video. '
+    print(message)
+    return False,message
 
 
 if __name__ == "__main__":

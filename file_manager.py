@@ -2,7 +2,7 @@ import os, time
 import threading, queue
 import urllib.request, urllib.parse, urllib.error
 import send_email as sem
-from config import h264_folder, mp4_folder, motion_threshold,log_dir,log_file,logwrite_th
+from config import h264_folder, mp4_folder, motion_threshold,log_dir,log_file,logwrite_th, connect_th
 import human_detect as hd
 from copy import deepcopy
 os.environ['TZ']= 'Asia/Kolkata'
@@ -28,6 +28,8 @@ class FileManagerThread(threading.Thread):
         self.files_not_sent=[]
         self.last_files_not_sent=[]
         self.time_last_written=time.time()
+        self.time_last_checked=time.time()
+        self.last_status=False
 
     def run(self):
         # As long as we weren't asked to stop, try to take new tasks from the
@@ -89,13 +91,18 @@ class FileManagerThread(threading.Thread):
         super(FileManagerThread, self).join(timeout)
 
     def _connected(self):
-        return True
-        # try:
-        #     urllib.request.urlopen('http://www.google.com')
-        #     return True
-        # except Exception as err:
-        #     print(err)
-        #     return False
+        #return True
+        if (time.time()-self.time_last_checked)>connect_th:
+            self.time_last_checked=time.time()
+            try:
+                urllib.request.urlopen('https://www.google.com')
+                self.last_status=True
+            except Exception as err:
+                print(err)
+                self.last_status=False
+            return self.last_status
+        else:
+            return self.last_status
 
 class FileCleanerThread(threading.Thread):
     def __init__(self):
@@ -103,7 +110,9 @@ class FileCleanerThread(threading.Thread):
         self.stoprequest = threading.Event()
         self.files_sent=[]
         self.files_not_sent=self.get_file_names()
-
+        self.time_last_checked=time.time()
+        self.last_status=False
+        
     def run(self):
         while len(self.files_not_sent)>0:
             try:
@@ -139,13 +148,18 @@ class FileCleanerThread(threading.Thread):
         super(FileCleanerThread, self).join(timeout)
 
     def _connected(self):
-        return True
-        # try:
-        #     urllib.request.urlopen('http://www.google.com')
-        #     return True
-        # except Exception as err:
-        #     print(err)
-        #     return False
+        #return True
+        if (time.time()-self.time_last_checked)>connect_th:
+            self.time_last_checked=time.time()
+            try:
+                urllib.request.urlopen('https://www.google.com')
+                self.last_status=True
+            except Exception as err:
+                print(err)
+                self.last_status=False
+            return self.last_status
+        else:
+            return self.last_status
 
 class counter(object):
     def __init__(self,countfile):
