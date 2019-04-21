@@ -62,15 +62,15 @@ model_path = 'ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb'
 odapi = DetectorAPI(path_to_ckpt=model_path)
 threshold = 0.5
 
-def determine_if_person_in(fname,threshold=0.5):
+def determine_if_person_in(fname,threshold=0.5,is_nano=False):
     print('Analyzing file {} to find human in video'.format(fname))
     jpeg_name=fname[:fname.rfind('.')+1]+'jpg'
     video=cv2.VideoCapture(fname)
     n_frames=video.get(cv2.CAP_PROP_FRAME_COUNT)
-    max_budget=int(4*n_frames/100)
+    max_budget=int(8*n_frames/100) if is_nano else int(4*n_frames/100)
     #print('max budget: {}'.format(max_budget))
-    random_frames=np.random.choice(np.arange(n_frames-1),max_budget)
-    chosen_frames=np.unique(np.sort(random_frames))
+    random_frames=np.random.permutation(int(n_frames))
+    chosen_frames=random_frames[:max_budget]
     #print('random frames are: {}'.format(random_frames))
     #print('Chosen frames are: {}'.format(chosen_frames))
 
