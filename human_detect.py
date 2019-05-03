@@ -65,6 +65,9 @@ threshold = 0.5
 def determine_if_person_in(fname,threshold=0.5,is_nano=False):
     print('Analyzing file {} to find human in video'.format(fname))
     jpeg_name=fname[:fname.rfind('.')+1]+'jpg'
+    if not is_nano:
+        return True,'There may be someone in the room'
+        
     video=cv2.VideoCapture(fname)
     n_frames=video.get(cv2.CAP_PROP_FRAME_COUNT)
     max_budget=int(8*n_frames/100) if is_nano else int(4*n_frames/100)
