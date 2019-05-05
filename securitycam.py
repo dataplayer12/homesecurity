@@ -19,7 +19,7 @@ time.sleep(initial_sleep)
 
 camera=PiCamera()
 camera.resolution=(320,240)
-camera.vflip=False
+camera.vflip=True
 
 time_since_last_sent=200 #in minutes
 time_last_sent=time.time()
