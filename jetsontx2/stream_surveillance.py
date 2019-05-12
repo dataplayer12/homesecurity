@@ -21,18 +21,9 @@ DEFAULT_LABELMAP ='data/mscoco_label_map.pbtxt'
 WINDOW_NAME = 'CameraTFTRTDemo'
 BBOX_COLOR = (0, 255, 0)  # green
 
-
-def open_display_window(width, height):
-    """Open the cv2 window for displaying images with bounding boxeses."""
-    cv2.namedWindow(WINDOW_NAME, cv2.WINDOW_NORMAL)
-    cv2.resizeWindow(WINDOW_NAME, width, height)
-    cv2.moveWindow(WINDOW_NAME, 0, 0)
-    cv2.setWindowTitle(WINDOW_NAME, 'Camera TFTRT Object Detection Demo '
-                                    'for Jetson TX2/TX1')
-
 def draw_help_and_fps(img, fps):
     """Draw help message and fps number at top-left corner of the image."""
-    help_text = datetime.datetime.now().strftime("%X") #"'Esc' to Quit, 'H' for FPS & Help, 'F' for Fullscreen"
+    help_text = datetime.datetime.now().strftime("%A, %B %d %Y %X") #"'Esc' to Quit, 'H' for FPS & Help, 'F' for Fullscreen"
     font = cv2.FONT_HERSHEY_PLAIN
     line = cv2.LINE_AA
 
@@ -43,6 +34,14 @@ def draw_help_and_fps(img, fps):
     cv2.putText(img, fps_text, (10, 50), font, 1.0, (240, 240, 240), 1, line)
     return img
 
+def open_display_window(width, height):
+    """Open the cv2 window for displaying images with bounding boxeses."""
+    cv2.namedWindow(WINDOW_NAME, cv2.WINDOW_NORMAL)
+    cv2.resizeWindow(WINDOW_NAME, width, height)
+    cv2.moveWindow(WINDOW_NAME, 0, 0)
+    cv2.setWindowTitle(WINDOW_NAME, 'Camera TFTRT Object Detection Demo '
+                                    'for Jetson TX2/TX1')
+    set_full_screen(True)
 
 def set_full_screen(full_scrn):
     """Set display window to full screen or not."""
@@ -120,12 +119,13 @@ def main():
     log_path = './logs/{}_trt'.format(DEFAULT_MODEL)
 
     logger.info('opening camera device/file')
-    url1='http://pi1.local:2000/stream.mjpg'
-    url2=url1#'http://picam201902.local:3000/stream.mjpg'
-    url3=url1#'http://raspi3bp.local:4000/stream.mjpg'
-    url4=url1#'http://picamblack.local:5000/stream.mjpg'
-    
-    stream_handler=VideoStreamHandler([url1,url2,url3,url4],resolution=(360,640))
+
+    url1='http://pi1.local:8000/stream.mjpg'
+    url2='http://pi2.local:8000/stream.mjpg'#'http://raspi3bp.local:4000/stream.mjpg'
+    url3='http://pi3.local:8000/stream.mjpg'#'http://picamblack.local:5000/stream.mjpg'
+    url4='http://barcodepi.local:8000/stream.mjpg' #'http://picam201902.local:3000/stream.mjpg'
+    threaded=True
+    stream_handler=VideoStreamHandler([url1,url2,url3,url4],threaded=threaded,resolution=(360,640))
     logger.info('loading TRT graph from pb: %s' % pb_path)
     trt_graph = load_trt_pb(pb_path)
 
@@ -143,11 +143,13 @@ def main():
     logger.info('starting to loop and detect')
     vis = BBoxVisualization(cls_dict)
     open_display_window(1280, 720)
+    #if threaded:
+        #stream_handler.start()
     loop_and_detect(stream_handler, tf_sess, 0.2, vis, od_type=od_type)
     stream_handler.close()
     logger.info('cleaning up')
     tf_sess.close()
-
+    stream_handler.join_streams()
     cv2.destroyAllWindows()
 
 if __name__ == '__main__':
