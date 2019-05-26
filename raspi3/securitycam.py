@@ -4,6 +4,8 @@ import cv2, time, os
 #import send_email
 import queue
 import numpy as np
+import sys
+sys.path.append(os.getcwd()+'/common/')
 from config import * #h264_folder, mp4_folder, motion_threshold,log_dir,log_file,countfile
 from file_manager import FileManagerThread, FileCleanerThread, counter
 
