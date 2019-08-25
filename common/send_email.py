@@ -1,23 +1,15 @@
 import smtplib, time, os
 os.environ['TZ']= 'Asia/Kolkata'
 time.tzset()
-#mail=smtplib.SMTP('smtp.gmail.com',587)
 
-#mail.ehlo()
-#mail.starttls() #securely send passwords
-#mail.ehlo()
+with open('confidential.txt','r') as f:
+	info=eval(f.read())
 
-MY_EMAIL=["jaiyam.raspi@gmail.com"]
-
-MY_PASSWD="riemann256"
-
-RECEPIENT=["jaiyamsharma@icloud.com","malti.sharma0@gmail.com"]
+MY_EMAIL=info['myemail']
+MY_PASSWD=info['mypass']
+RECEPIENT=info['recepients']
 
 SUBJECT="CCTV recording for last few seconds"
-
-#mail.login(MY_EMAIL,MY_PASSWD)
-#mail.sendmail(MY_EMAIL,RECEPIENT,"Subject: {} \n\n {}".format(SUBJECT,content))
-#mail.quit()
 
 import os
 from email.mime.multipart import MIMEMultipart
@@ -31,7 +23,7 @@ def send_mail(send_from=MY_EMAIL, send_to=RECEPIENT, subject=SUBJECT, files=['vi
 
     server="smtp.gmail.com"
     port=587
-    username=MY_EMAIL[0]
+    username=MY_EMAIL
     password=MY_PASSWD
     isTls=True
 
