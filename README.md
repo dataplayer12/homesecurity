@@ -7,6 +7,6 @@ Security camera for single and multiple cameras with:
 - Jetson TX2
 
 ## Architectures
-![Architecture 1](http://www.github.com/dataplayer12/homesecurity/docs/arch1.png)
-![Architecture 2](http://www.github.com/dataplayer12/homesecurity/docs/arch2.png)
-![Architecture 3](http://www.github.com/dataplayer12/homesecurity/docs/arch3.png)
+![Architecture 1](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch1.png)
+![Architecture 2](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch2.png)
+![Architecture 3](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch3.png)
