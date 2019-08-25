@@ -59,6 +59,55 @@ class DetectorAPI:
         self.sess.close()
         self.default_graph.close()
 
+model_path = 'ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb'
+odapi = DetectorAPI(path_to_ckpt=model_path)
+threshold = 0.5
+
+def determine_if_person_in(fname,threshold=0.5,is_nano=False):
+    print('Analyzing file {} to find human in video'.format(fname))
+    jpeg_name=fname[:fname.rfind('.')+1]+'jpg'
+    if not is_nano:
+        return True,'There may be someone in the room'
+        
+    video=cv2.VideoCapture(fname)
+    n_frames=video.get(cv2.CAP_PROP_FRAME_COUNT)
+    max_budget=int(8*n_frames/100) if is_nano else int(4*n_frames/100)
+    #print('max budget: {}'.format(max_budget))
+    random_frames=np.random.permutation(int(n_frames))
+    chosen_frames=random_frames[:max_budget]
+    #print('random frames are: {}'.format(random_frames))
+    #print('Chosen frames are: {}'.format(chosen_frames))
+
+    for cf in chosen_frames:
+        video.set(cv2.CAP_PROP_POS_FRAMES,cf)
+        ret,frame=video.read()
+        if not ret:
+            video.release()
+            #print('Could not read frame. Returning')
+            message='Could not check the video. '
+            print(message)
+            return True, message
+        else:
+            boxes, scores, classes, num= odapi.processFrame(frame)
+
+            good_indices=np.where(np.array(scores)>threshold)
+            #print('Good classes: {}'.format(np.array(classes)[good_indices]))
+            result=(1 in np.array(classes)[good_indices])
+            if result:
+                video.release()
+                #print('Person found in frame {}. Returning'.format(cf))
+                for i in range(len(boxes)):
+                    if classes[i] == 1 and scores[i] > threshold:
+                        box=boxes[i]
+                        cv2.rectangle(frame,(box[1],box[0]),(box[3],box[2]),(255,0,0),2)
+                cv2.imwrite(jpeg_name,frame)
+                message='There is someone in the room. '
+                print(message)
+                return True,message #if person is found in any frame, the function returns True
+    message='Person not found in video. '
+    print(message)
+    return False,message
+
 if __name__ == "__main__":
     model_path = 'ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb'
     odapi = DetectorAPI(path_to_ckpt=model_path)
