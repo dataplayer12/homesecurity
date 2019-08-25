@@ -11,7 +11,7 @@ Software for security monitoring with single or multiple cameras with:
 - Jetson Nano: After recording video, an object detection model checks if a person is presentin the video. If yes, the video and a screenshot are sent by email.
 - Jetson TX2 + Pi Zeros: A set of 4 raspi zeros stream video over Wi-Fi to a Jetson TX2, which combines inputs from all sources, performs object detection and displays the results on a monitor.
 
-## Architectures
+## Configurations
 ### Raspberry Pi 3
 ![Architecture 1](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch1.png)
 ----
