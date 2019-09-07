@@ -1,4 +1,6 @@
 *.mp4
 *.h264
-*.AppleDouble
+*__pycache__*
+*.AppleDouble*
 *confidential*
+*.DS_Store*
