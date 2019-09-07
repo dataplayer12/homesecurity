@@ -123,7 +123,7 @@ def main():
     url1='http://pi1.local:8000/stream.mjpg'
     url2='http://pi2.local:8000/stream.mjpg'#'http://raspi3bp.local:4000/stream.mjpg'
     url3='http://pi3.local:8000/stream.mjpg'#'http://picamblack.local:5000/stream.mjpg'
-    url4='http://barcodepi.local:8000/stream.mjpg' #'http://picam201902.local:3000/stream.mjpg'
+    url4='http://pi4.local:8000/stream.mjpg' #'http://picam201902.local:3000/stream.mjpg'
     threaded=True
     stream_handler=VideoStreamHandler([url1,url2,url3,url4],threaded=threaded,resolution=(360,640))
     logger.info('loading TRT graph from pb: %s' % pb_path)
