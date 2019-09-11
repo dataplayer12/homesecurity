@@ -21,6 +21,20 @@ Software for security monitoring with single or multiple cameras with:
 ### Raspberry Pi Zero W + Jetson TX2
 ![Architecture 3](https://github.com/dataplayer12/homesecurity/blob/master/docs/arch3.png)
 
+## Setup
+Clone the repo and choose the device by modifying the `DEVICE` variable in the `launch.sh` script.
+```Shell
+git clone http://www.github.com/dataplayer12/homesecurity.git
+nano launch.sh #Edit the DEVICE variable to be one of the four options described in the comments
+bash launch.sh
+```
+You may have to install some dependecies in order for the script to work. Instructions for dependencies for each device are in their respective directories:
+
+- [Raspberry Pi Zero](https://github.com/dataplayer12/homesecurity/tree/master/common)
+- [Raspberry Pi 3/4](https://github.com/dataplayer12/homesecurity/tree/master/raspi3)
+- [Jetson Nano](https://github.com/dataplayer12/homesecurity/tree/master/jetsonano)
+- [Jetson TX2](https://github.com/dataplayer12/homesecurity/tree/master/jetsontx2)
+
 ## Development
 
 This software was written for monitoring the security of my home with a raspberry pi. The section related to raspberry pi 3 has been in use at my home for about two years and there are failsafes built in to prevent issues such as loss of network connection and memory overflow. Since my requirements are well-served with the current version, more features will be added only if requests are made by raising issues. 
