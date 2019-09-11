@@ -1,0 +1,8 @@
+Raspberry pi 3/4 requires `picamera`, `numpy` and `opencv`:
+```Shell
+sudo apt-get update
+sudo apt-get install python-picamera python3-picamera
+sudo pip install "picamera[array]"
+sudo apt-get install python-opencv python3-opencv
+```
+For best results, compile opencv natively on the Pi with ARM optimizations, as shown by [pyimagesearch](https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
