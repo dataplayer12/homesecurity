@@ -47,7 +47,7 @@ The contents of `confidential.txt` are as follows:
 {"recepients": ["email1", "email2"], "myemail": "senderemail", "mypass": "senderpassword"}
 ```
 
-You will have to configure the `senderemail` to allow login from your pi. For Gmail, you can do this by enabling two-factor authentication and setting an app-specific password for your gmail account or by downgrading your security settings to allow less secure devices like the pi to access your Google account. No special settings are required on the receiver's email address. Please raise an issue if you have any specific questions.
+You will have to configure the `senderemail` to allow login from your pi. For Gmail, you can do this by enabling two-factor authentication and setting an app-specific password for your gmail account or by downgrading your security settings to allow less secure devices like the pi to access your Google account. No special settings are required on the receiver's email address. The `confidential.txt` file will never be tracked or uploaded to your GitHub repo if you are forking the project and developing it further. Please raise an issue if you have any specific questions.
 
 ## Development
 
