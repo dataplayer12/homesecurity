@@ -25,6 +25,7 @@ Software for security monitoring with single or multiple cameras with:
 Clone the repo and choose the device by modifying the `DEVICE` variable in the `launch.sh` script.
 ```Shell
 git clone http://www.github.com/dataplayer12/homesecurity.git
+cd ./homesecurity
 nano launch.sh #Edit the DEVICE variable to be one of the four options described in the comments
 bash launch.sh
 ```
@@ -34,6 +35,19 @@ You may have to install some dependecies in order for the script to work. Instru
 - [Raspberry Pi 3/4](https://github.com/dataplayer12/homesecurity/tree/master/raspi3)
 - [Jetson Nano](https://github.com/dataplayer12/homesecurity/tree/master/jetsonano)
 - [Jetson TX2](https://github.com/dataplayer12/homesecurity/tree/master/jetsontx2)
+
+If you are using a raspberry pi 3/4 or Jetson Nano, you will have to provide email addresses for receiving videos when some activity is observed by the camera. This is done by writing these details to a `confidential.txt` text file.
+```Shell
+cd homesecurity #be in the base directory of the project
+nano confidential.txt #open text file
+```
+The contents of `confidential.txt` are as follows:
+
+```Text
+{"recepients": ["email1", "email2"], "myemail": "senderemail", "mypass": "senderpassword"}
+```
+
+You will have to configure the `senderemail` to allow login from your pi. For Gmail, you can do this by enabling two-factor authentication and setting an app-specific password for your gmail account or by downgrading your security settings to allow less secure devices like the pi to access your Google account. No special settings are required on the receiver's email address. Please raise an issue if you have any specific questions.
 
 ## Development
 
