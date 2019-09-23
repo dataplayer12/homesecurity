@@ -39,12 +39,21 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
   -D INSTALL_PYTHON_EXAMPLES=OFF \
   -D BUILD_EXAMPLES=OFF ..
 
-sudo nano /etc/dphys-swapfile
-
+sudo su
+echo "Expanding swapfile to 2048 MB"
+echo "CONF_MAXSWAP=2048" >> /etc/dphys-swapfile
 sudo /etc/init.d/dphys-swapfile stop
 sudo /etc/init.d/dphys-swapfile start
+exit
 
 make -j4
 
 sudo make install
 sudo ldconfig
+
+sudo su
+echo "Resizing swapfile back to 100 MB"
+echo "CONF_MAXSWAP=100" >> /etc/dphys-swapfile
+sudo /etc/init.d/dphys-swapfile stop
+sudo /etc/init.d/dphys-swapfile start
+exit

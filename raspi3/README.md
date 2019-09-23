@@ -11,10 +11,6 @@ For best results, compile opencv natively on the Pi with ARM optimizations. You 
 cd raspi3/
 sudo chmod +x install_optimized_opencv.sh
 sudo ./install_optimized_opencv.sh #this script will take a long time to execute.
-#After some time, the script will open a file called /etc/dphys-swapfile in nano text editor
-#Edit the last line of this file to be: CONF_MAXSWAP=2048
-#Save and close the file. After this, installation script will continue
-#Once you are done with the installation, change the CONF_MAXSWAP variable to a smaller value like 100 or so.
 ```
 
 Credit:
