@@ -3,7 +3,6 @@
 Object detection utility functions.
 '''
 
-
 import time
 
 import numpy as np
@@ -11,60 +10,16 @@ import cv2
 import tensorflow as tf
 import tensorflow.contrib.tensorrt as trt
 
-
 MEASURE_MODEL_TIME = False
 avg_time = 0.0
-
 
 def read_label_map(path_to_labels):
     """Read from the label map file and return a class dictionary which
     maps class id (int) to the corresponding display name (string).
-
-    Reference:
-    https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
+    This functions expects a txt, not pbtxt file
     """
-    from object_detection.utils import label_map_util
-
-    category_index = label_map_util.create_category_index_from_labelmap(
-        path_to_labels)
-    cls_dict = {int(x['id']): x['name'] for x in category_index.values()}
-    num_classes = max(c for c in cls_dict.keys()) + 1
-    # add missing classes as, say,'CLS12' if any
-    return {i: cls_dict.get(i, 'CLS{}'.format(i)) for i in range(num_classes)}
-
-
-def build_trt_pb(model_name, pb_path, download_dir='data'):
-    """Build TRT model from the original TF model, and save the graph
-    into a pb file for faster access in the future.
-
-    The code was mostly taken from the following example by NVIDIA.
-    https://github.com/NVIDIA-Jetson/tf_trt_models/blob/master/examples/detection/detection.ipynb
-    """
-    from tf_trt_models.detection import download_detection_model
-    from tf_trt_models.detection import build_detection_graph
-    from utils.egohands_models import get_egohands_model
-
-    if 'coco' in model_name:
-        config_path, checkpoint_path = \
-            download_detection_model(model_name, download_dir)
-    else:
-        config_path, checkpoint_path = \
-            get_egohands_model(model_name)
-    frozen_graph_def, input_names, output_names = build_detection_graph(
-        config=config_path,
-        checkpoint=checkpoint_path
-    )
-    trt_graph_def = trt.create_inference_graph(
-        input_graph_def=frozen_graph_def,
-        outputs=output_names,
-        max_batch_size=1,
-        max_workspace_size_bytes=1 << 26,
-        precision_mode='FP16',
-        minimum_segment_size=50
-    )
-    with open(pb_path, 'wb') as pf:
-        pf.write(trt_graph_def.SerializeToString())
-
+    with open(path_to_labels,'r') as f:
+        return {i: c for i,c in enumerate(f.read().split('\n'))}
 
 def load_trt_pb(pb_path):
     """Load the TRT graph from the pre-build pb file."""
@@ -82,15 +37,6 @@ def load_trt_pb(pb_path):
     with tf.Graph().as_default() as trt_graph:
         tf.import_graph_def(trt_graph_def, name='')
     return trt_graph
-
-
-def write_graph_tensorboard(sess, log_path):
-    """Write graph summary to log_path, so TensorBoard could display it."""
-    writer = tf.summary.FileWriter(log_path)
-    writer.add_graph(sess.graph)
-    writer.flush()
-    writer.close()
-
 
 def _preprocess(src, shape=None, to_rgb=True):
     """Preprocess input image for the TF-TRT object detection model."""

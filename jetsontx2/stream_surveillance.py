@@ -11,15 +11,10 @@ import cv2
 import tensorflow as tf
 import tensorflow.contrib.tensorrt as trt
 
-from utils.od_utils import read_label_map, build_trt_pb, load_trt_pb, \
-                           write_graph_tensorboard, detect
+from utils.od_utils import read_label_map, load_trt_pb, detect
 from utils.visualization import BBoxVisualization
 from streamutils import VideoStreamHandler
-
-DEFAULT_MODEL = 'ssd_inception_v2_coco'
-DEFAULT_LABELMAP ='data/mscoco_label_map.pbtxt'
-WINDOW_NAME = 'CameraTFTRTDemo'
-BBOX_COLOR = (0, 255, 0)  # green
+from jetson_config import threaded, MODEL, LABELMAP, WINDOW_NAME, BBOX_COLOR
 
 def draw_help_and_fps(img, fps):
     """Draw help message and fps number at top-left corner of the image."""
@@ -39,8 +34,7 @@ def open_display_window(width, height):
     cv2.namedWindow(WINDOW_NAME, cv2.WINDOW_NORMAL)
     cv2.resizeWindow(WINDOW_NAME, width, height)
     cv2.moveWindow(WINDOW_NAME, 0, 0)
-    cv2.setWindowTitle(WINDOW_NAME, 'Camera TFTRT Object Detection Demo '
-                                    'for Jetson TX2/TX1')
+    cv2.setWindowTitle(WINDOW_NAME, WINDOW_NAME)
     set_full_screen(True)
 
 def set_full_screen(full_scrn):
@@ -66,7 +60,7 @@ def loop_and_detect(stream_handler, tf_sess, conf_th, vis, od_type):
     """Loop, grab images from camera, and do object detection.
 
     # Arguments
-      cam: the camera object (video source).
+      stream_handler: the stream handler object.
       tf_sess: TensorFlow/TensorRT session to run SSD object detection.
       conf_th: confidence/score threshold for object detection.
       vis: for visualization.
@@ -95,7 +89,7 @@ def loop_and_detect(stream_handler, tf_sess, conf_th, vis, od_type):
         tic = toc
 
         key = cv2.waitKey(1)
-        if key == 27:  # ESC key: quit program
+        if key == ord('q') or key == ord('Q'):  # q key: quit program
             break
         elif key == ord('H') or key == ord('h'):  # Toggle help/fps
             show_fps = not show_fps
@@ -113,19 +107,20 @@ def main():
 
     # build the class (index/name) dictionary from labelmap file
     logger.info('reading label map')
-    cls_dict = read_label_map(DEFAULT_LABELMAP)
+    cls_dict = read_label_map(LABELMAP)
 
-    pb_path = './data/{}_trt.pb'.format(DEFAULT_MODEL)
-    log_path = './logs/{}_trt'.format(DEFAULT_MODEL)
+    pb_path = './human_detection/{}_trt.pb'.format(MODEL)
+    log_path = './jetsontx2/logs/{}_trt'.format(MODEL)
 
     logger.info('opening camera device/file')
 
     url1='http://pi1.local:8000/stream.mjpg'
-    url2='http://pi2.local:8000/stream.mjpg'#'http://raspi3bp.local:4000/stream.mjpg'
-    url3='http://pi3.local:8000/stream.mjpg'#'http://picamblack.local:5000/stream.mjpg'
-    url4='http://pi4.local:8000/stream.mjpg' #'http://picam201902.local:3000/stream.mjpg'
-    threaded=True
+    url2='http://pi2.local:8000/stream.mjpg'
+    url3='http://pi3.local:8000/stream.mjpg'
+    url4='http://pi4.local:8000/stream.mjpg'
+    
     stream_handler=VideoStreamHandler([url1,url2,url3,url4],threaded=threaded,resolution=(360,640))
+
     logger.info('loading TRT graph from pb: %s' % pb_path)
     trt_graph = load_trt_pb(pb_path)
 
@@ -143,10 +138,9 @@ def main():
     logger.info('starting to loop and detect')
     vis = BBoxVisualization(cls_dict)
     open_display_window(1280, 720)
-    #if threaded:
-        #stream_handler.start()
     loop_and_detect(stream_handler, tf_sess, 0.2, vis, od_type=od_type)
-    stream_handler.close()
+    if threaded:
+        stream_handler.close()
     logger.info('cleaning up')
     tf_sess.close()
     stream_handler.join_streams()

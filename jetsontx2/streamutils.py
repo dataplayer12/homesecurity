@@ -3,18 +3,18 @@ import numpy as np
 import time
 import threading
 import queue
-
+from jetson_config import qsize
 
 class VideoStream(threading.Thread):
 
-    def __init__(self, url, pos, frame_q, resolution=(480, 640), threaded=False):
+    def __init__(self, url, pos, frame_q, resolution=(360, 640), threaded=False):
         super(VideoStream, self).__init__()
         self.cam = cv2.VideoCapture(url)
         self.pos = pos
         self.url = url
         self.resolution = resolution
         self.threaded = threaded
-        self.emptyframe = np.zeros((*self.resolution, 3), dtype=np.uint8)
+        self.emptyframe = self.make_empty_frame()
         self.num_empty_frames = 0
         self.frame_q = frame_q
         self.stoprequest = threading.Event()
@@ -22,6 +22,12 @@ class VideoStream(threading.Thread):
 
     def __repr__(self):
         return "VideoStream object at url: {}".format(self.url)
+
+    def make_empty_frame(self):
+        frame=np.zeros((*self.resolution, 3), dtype=np.uint8)
+        empty_msg='Cannot read camera at {}'.format(self.url)
+        cv2.putText(frame, empty_msg, (50, 50),cv2.FONT_HERSHEY_COMPLEX, 0.6, (255, 255, 255))
+        return frame
 
     def read(self, framebuffer, threaded=False):
 
@@ -81,7 +87,7 @@ class VideoStream(threading.Thread):
 
 class VideoStreamHandler(object):
 
-    def __init__(self, urls, threaded=False, resolution=(480, 640)):
+    def __init__(self, urls, threaded=False, resolution=(360, 640)):
         #super(VideoStreamHandler, self).__init__()
         assert len(urls) == 4, 'At the moment this code can handle only 4 streams'
         self.url1 = urls[0]
@@ -94,6 +100,7 @@ class VideoStreamHandler(object):
         self.s1, self.s2, self.s3, self.s4 = self.setup_streams()
         self.framebuffer = np.zeros(
             (2 * resolution[0], 2 * resolution[1], 3), dtype=np.uint8)
+        self.emptyframes=[self.s1.emptyframe,self.s2.emptyframe,self.s3.emptyframe,self.s4.emptyframe]
         if self.threaded:
             self.start_streams()
 
@@ -111,8 +118,8 @@ class VideoStreamHandler(object):
 
     def setup_queues(self):
         if self.threaded:
-            return queue.Queue(maxsize=100), queue.Queue(maxsize=100),\
-                queue.Queue(maxsize=100), queue.Queue(maxsize=100)
+            return queue.Queue(maxsize=qsize), queue.Queue(maxsize=qsize),\
+                queue.Queue(maxsize=qsize), queue.Queue(maxsize=qsize)
         else:
             return None, None, None, None
 
@@ -133,7 +140,7 @@ class VideoStreamHandler(object):
             self.read_queue(self.q1, 1)
             self.read_queue(self.q2, 2)
             self.read_queue(self.q3, 3)
-            self.read_queue(self.q4, 3)
+            self.read_queue(self.q4, 4)
         else:
             self.s1.read(self.framebuffer)
             self.s2.read(self.framebuffer)
@@ -143,11 +150,12 @@ class VideoStreamHandler(object):
         return self.framebuffer
 
     def read_queue(self, q, pos):
-        # if q.empty():
-        #     return self.s1.emptyframe[:]
-        # else:
-        frame = q.get_nowait()  # this will never raise an exception
-        # if this thread is the only consumer using this queue
+        if q.empty():
+            frame=self.emptyframes[pos-1]
+        else:
+            frame = q.get_nowait()  # this will never raise an exception
+            # if this thread is the only consumer using this queue
+
         if pos == 1:
             self.framebuffer[:self.resolution[0], :self.resolution[1]] = frame
         elif pos == 2:
@@ -183,7 +191,7 @@ def main():
     url4 = 'http://pi4.local:8000/stream.mjpg'
 
     stream_handler = VideoStreamHandler(
-        [url1, url2, url3, url4], resolution=(360, 640))
+        [url1, url2, url3, url4],threaded=True, resolution=(360, 640))
 
     tic = time.time()
     while True:

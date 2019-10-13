@@ -34,6 +34,5 @@ elif [ "$DEVICE" == "jetsonano" ]; then
 	python3 jetsonano/securitycamnano.py
 
 elif [ "$DEVICE" == "jetsontx2" ]; then
-	cd jetsontx2/
-	python3 stream_surveillance.py
+	python3 jetsontx2/stream_surveillance.py
 fi

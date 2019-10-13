@@ -29,10 +29,9 @@ from utils.visualization import BBoxVisualization
 
 
 # Constants
-DEFAULT_MODEL = 'ssd_inception_v2_coco'
-DEFAULT_LABELMAP = 'third_party/models/research/object_detection/' \
-                   'data/mscoco_label_map.pbtxt'
-WINDOW_NAME = 'CameraTFTRTDemo'
+DEFAULT_MODEL = 'ssd_mobilenet_v1_coco'
+DEFAULT_LABELMAP = '../human_detection/mscoco_label_map.pbtxt'
+WINDOW_NAME = 'Home security cam'
 BBOX_COLOR = (0, 255, 0)  # green
 
 
@@ -157,7 +156,7 @@ def loop_and_detect(cam, tf_sess, conf_th, vis, od_type,writer):
         if show_fps:
             img = draw_help_and_fps(img, fps)
         #cv2.imshow(WINDOW_NAME, img)
-        #writer.write(img)
+        writer.write(img)
         toc = time.time()
         curr_fps = 1.0 / (toc - tic)
         # calculate an exponentially decaying average of fps number
@@ -182,18 +181,18 @@ def main():
     logger.info('reading label map')
     cls_dict = read_label_map(args.labelmap_file)
 
-    pb_path = './data/{}_trt.pb'.format(args.model)
+    pb_path = '../human_detection/{}_trt.pb'.format(args.model)
     log_path = './logs/{}_trt'.format(args.model)
-    if args.do_build:
-        logger.info('building TRT graph and saving to pb: %s' % pb_path)
-        build_trt_pb(args.model, pb_path)
+    #if args.do_build:
+    #    logger.info('building TRT graph and saving to pb: %s' % pb_path)
+    #    build_trt_pb(args.model, pb_path)
 
     logger.info('opening camera device/file')
     infile=args.filename
     cam=cv2.VideoCapture(infile)
     size=(int(cam.get(cv2.CAP_PROP_FRAME_WIDTH)),int(cam.get(cv2.CAP_PROP_FRAME_HEIGHT)))
     fps=cam.get(cv2.CAP_PROP_FPS)
-    writer=cv2.VideoWriter('_res.'.join([f for f in infile.split('.')]),cv2.VideoWriter_fourcc(*'mp4v'), fps, size)
+    writer=cv2.VideoWriter('_res.'.join([f for f in infile.split('.')]),0x00000021, fps, size)
 
     logger.info('loading TRT graph from pb: %s' % pb_path)
     trt_graph = load_trt_pb(pb_path)
