@@ -14,7 +14,7 @@ import tensorflow.contrib.tensorrt as trt
 from utils.od_utils import read_label_map, load_trt_pb, detect
 from utils.visualization import BBoxVisualization
 from streamutils import VideoStreamHandler
-from jetson_config import threaded, MODEL, LABELMAP, WINDOW_NAME, BBOX_COLOR
+from tx2_config import threaded, MODEL, LABELMAP, WINDOW_NAME, BBOX_COLOR
 
 def draw_help_and_fps(img, fps):
     """Draw help message and fps number at top-left corner of the image."""

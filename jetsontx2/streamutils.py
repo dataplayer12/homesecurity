@@ -3,7 +3,7 @@ import numpy as np
 import time
 import threading
 import queue
-from jetson_config import qsize
+from tx2_config import qsize
 
 class VideoStream(threading.Thread):
 
@@ -191,7 +191,7 @@ def main():
     url4 = 'http://pi4.local:8000/stream.mjpg'
 
     stream_handler = VideoStreamHandler(
-        [url1, url2, url3, url4],threaded=True, resolution=(360, 640))
+        [url1, url2, url3, url4],threaded=False, resolution=(360, 640))
 
     tic = time.time()
     while True:

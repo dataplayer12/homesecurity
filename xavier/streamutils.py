@@ -3,7 +3,7 @@ import numpy as np
 import time
 import threading
 import queue
-from jetson_config import qsize
+from xavier_config import qsize
 
 class VideoStream(threading.Thread):
 

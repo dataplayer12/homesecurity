@@ -11,7 +11,7 @@ import os
 import darknet
 import re
 from streamutils import VideoStreamHandler
-from jetson_config import threaded, WINDOW_NAME, BBOX_COLOR, configPath, weightPath, metaPath
+from xavier_config import threaded, WINDOW_NAME, BBOX_COLOR, configPath, weightPath, metaPath
 
 def convertBack(x, y, w, h):
     xmin = int(round(x - (w / 2)))
