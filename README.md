@@ -62,7 +62,7 @@ In this application, the performance of the jetson is limited by the bandwidth o
 If you see many "Cannot read camera at.." messages, you have two options:
 
 - If you have opened a camera stream on a browser, please close it as streaming to the browser doubles the work the pi has to do.
-- Try increasing `qsize` in `jetsontx2/jetson_config.py`. This will reduce the frequency of these messages, but will result in higher lag between the screen and camera. If the lag becomes too much, reduce qsize and try next option.
+- Try increasing `qsize` in `jetsontx2/tx2_config.py` or `xavier/xavier_config.py`. This will reduce the frequency of these messages, but will result in higher lag between the screen and camera. If the lag becomes too much, reduce qsize and try next option.
 - Try setting `threaded = False` in the same file. This will get rid of the benefits of multi-threading and read all cameras in series from the same thread. It will reduce your fps by ~2, but will get rid of ugly error screens.
 - Try connecting the jetson to the network via ethernet and if possible the pi zeros as well. If you must keep the jetson on Wi-Fi, please use a router that supports 5 GHz band (802.11 ac in marketing speak).
 
