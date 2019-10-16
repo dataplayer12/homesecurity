@@ -1,6 +1,6 @@
 import tensorflow.contrib.tensorrt as trt
 from tf_trt_models.detection import build_detection_graph
-from jetson_config import MODEL, DATA_DIR, CONFIG_FILE, CHECKPOINT_FILE, SERIAL_FILE
+from tx2_config import MODEL, DATA_DIR, CONFIG_FILE, CHECKPOINT_FILE, SERIAL_FILE
 
 print('Freezing tensorflow graph...')
 
