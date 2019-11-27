@@ -35,7 +35,10 @@ time_last_sent=time.time()
 file_counter=counter(countfile)
 
 video_num=file_counter.count
-camera=cv2.VideoCapture(gstreamer_pipeline(flip_method=0),cv2.CAP_GSTREAMER)
+if usbcam: #defined in config.py
+	camera=cv2.VideoCapture(0)
+else:
+	camera=cv2.VideoCapture(gstreamer_pipeline(flip_method=0),cv2.CAP_GSTREAMER)
 
 fct=FileCleanerThread()
 fct.start()

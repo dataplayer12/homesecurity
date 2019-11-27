@@ -9,3 +9,4 @@ motion_threshold=25
 initial_sleep=3
 send_time_threshold=-1 #no threshold
 location='Asia/Kolkata'
+usbcam=False #if false, CSI camera is assumed
