@@ -9,6 +9,7 @@ try:
         config=CONFIG_FILE,
         checkpoint=CHECKPOINT_FILE,
         score_threshold=0.3,
+        force_nms_cpu=False,
         batch_size=1
     )
     cprint('Tensorflow graph frozen successfully','green')
