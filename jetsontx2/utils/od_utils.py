@@ -32,8 +32,7 @@ def load_trt_pb(pb_path):
             node.device = '/device:GPU:0'
         if 'faster_rcnn_' in pb_path and 'SecondStage' in node.name:
             node.device = '/device:GPU:0'
-        if 'NonMaxSuppression' in node.name:
-            node.device = '/device:CPU:0'
+
     with tf.Graph().as_default() as trt_graph:
         tf.import_graph_def(trt_graph_def, name='')
     return trt_graph
