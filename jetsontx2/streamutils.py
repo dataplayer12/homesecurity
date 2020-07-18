@@ -9,7 +9,7 @@ class VideoStream(threading.Thread):
 
     def __init__(self, url, pos, frame_q, resolution=(360, 640), threaded=False):
         super(VideoStream, self).__init__()
-        self.cam = cv2.VideoCapture(url)
+        self.cam = cv2.VideoCapture(url) if url else None
         self.pos = pos
         self.url = url
         self.resolution = resolution
@@ -25,13 +25,19 @@ class VideoStream(threading.Thread):
 
     def make_empty_frame(self):
         frame=np.zeros((*self.resolution, 3), dtype=np.uint8)
-        empty_msg='Cannot read camera at {}'.format(self.url)
+        if self.url:
+	        empty_msg='Cannot read camera at {}'.format(self.url)
+	    else:
+	    	empty_msg='No device specified'
+
         cv2.putText(frame, empty_msg, (50, 50),cv2.FONT_HERSHEY_COMPLEX, 0.6, (255, 255, 255))
         return frame
 
     def read(self, framebuffer, threaded=False):
-
-        ret, frame = self.cam.read()
+    	if self.cam is not None:
+	        ret, frame = self.cam.read()
+	    else:
+	    	ret=False
 
         if ret:
             this_frame = frame
@@ -59,11 +65,12 @@ class VideoStream(threading.Thread):
                             self.resolution[1]:] = this_frame
 
     def cleanup(self):
-        self.cam.release()
+    	if self.cam:
+	        self.cam.release()
 
     def reset(self):
         self.cleanup()
-        self.cam = cv2.VideoCapture(self.url)
+        self.cam = cv2.VideoCapture(self.url) if self.url else None
         self.num_empty_frames = 0
         print(self.__repr__(), ' was reset')
 
@@ -89,7 +96,9 @@ class VideoStreamHandler(object):
 
     def __init__(self, urls, threaded=False, resolution=(360, 640)):
         #super(VideoStreamHandler, self).__init__()
-        assert len(urls) == 4, 'At the moment this code can handle only 4 streams'
+        #assert len(urls) == 4, 'At the moment this code can handle only 4 streams'
+        if len(urls)<4:
+            urls += ['']*(4-len(urls))
         self.url1 = urls[0]
         self.url2 = urls[1]
         self.url3 = urls[2]
