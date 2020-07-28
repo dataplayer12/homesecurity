@@ -26,18 +26,18 @@ class VideoStream(threading.Thread):
     def make_empty_frame(self):
         frame=np.zeros((*self.resolution, 3), dtype=np.uint8)
         if self.url:
-	        empty_msg='Cannot read camera at {}'.format(self.url)
-	    else:
-	    	empty_msg='No device specified'
+            empty_msg='Cannot read camera at {}'.format(self.url)
+        else:
+            empty_msg='No device specified'
 
         cv2.putText(frame, empty_msg, (50, 50),cv2.FONT_HERSHEY_COMPLEX, 0.6, (255, 255, 255))
         return frame
 
     def read(self, framebuffer, threaded=False):
-    	if self.cam is not None:
-	        ret, frame = self.cam.read()
-	    else:
-	    	ret=False
+        if self.cam is not None:
+            ret, frame = self.cam.read()
+        else:
+            ret=False
 
         if ret:
             this_frame = frame
@@ -53,20 +53,20 @@ class VideoStream(threading.Thread):
         else:
             if self.pos == 1:
                 framebuffer[:self.resolution[0],
-                            :self.resolution[1]] = this_frame
+                        :self.resolution[1]] = this_frame
             elif self.pos == 2:
                 framebuffer[:self.resolution[0],
-                            self.resolution[1]:] = this_frame
+                        self.resolution[1]:] = this_frame
             elif self.pos == 3:
                 framebuffer[self.resolution[0]:,
-                            :self.resolution[1]] = this_frame
+                        :self.resolution[1]] = this_frame
             elif self.pos == 4:
                 framebuffer[self.resolution[0]:,
-                            self.resolution[1]:] = this_frame
+                        self.resolution[1]:] = this_frame
 
-    def cleanup(self):
-    	if self.cam:
-	        self.cam.release()
+                def cleanup(self):
+                    if self.cam:
+                        self.cam.release()
 
     def reset(self):
         self.cleanup()
@@ -108,27 +108,27 @@ class VideoStreamHandler(object):
         self.q1, self.q2, self.q3, self.q4 = self.setup_queues()
         self.s1, self.s2, self.s3, self.s4 = self.setup_streams()
         self.framebuffer = np.zeros(
-            (2 * resolution[0], 2 * resolution[1], 3), dtype=np.uint8)
+                (2 * resolution[0], 2 * resolution[1], 3), dtype=np.uint8)
         self.emptyframes=[self.s1.emptyframe,self.s2.emptyframe,self.s3.emptyframe,self.s4.emptyframe]
         if self.threaded:
             self.start_streams()
 
     def setup_streams(self):
         stream1 = VideoStream(self.url1, 1, self.q1,
-                              self.resolution, self.threaded)
+                self.resolution, self.threaded)
         stream2 = VideoStream(self.url2, 2, self.q2,
-                              self.resolution, self.threaded)
+                self.resolution, self.threaded)
         stream3 = VideoStream(self.url3, 3, self.q3,
-                              self.resolution, self.threaded)
+                self.resolution, self.threaded)
         stream4 = VideoStream(self.url4, 4, self.q4,
-                              self.resolution, self.threaded)
+                self.resolution, self.threaded)
 
         return stream1, stream2, stream3, stream4
 
     def setup_queues(self):
         if self.threaded:
             return queue.Queue(maxsize=qsize), queue.Queue(maxsize=qsize),\
-                queue.Queue(maxsize=qsize), queue.Queue(maxsize=qsize)
+                    queue.Queue(maxsize=qsize), queue.Queue(maxsize=qsize)
         else:
             return None, None, None, None
 
@@ -200,7 +200,7 @@ def main():
     url4 = 'http://pi4.local:8000/stream.mjpg'
 
     stream_handler = VideoStreamHandler(
-        [url1, url2, url3, url4],threaded=False, resolution=(360, 640))
+            [url1, url2, url3, url4],threaded=False, resolution=(360, 640))
 
     tic = time.time()
     while True:
@@ -212,7 +212,7 @@ def main():
         font = cv2.FONT_HERSHEY_PLAIN
         line = cv2.LINE_AA
         cv2.putText(frame, fps_text, (20, 60), font,
-                    4.0, (255, 255, 255), 4, line)
+                4.0, (255, 255, 255), 4, line)
         cv2.imshow('Streams', frame)
         k = cv2.waitKey(1)
 
