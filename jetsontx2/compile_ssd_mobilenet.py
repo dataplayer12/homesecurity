@@ -1,7 +1,11 @@
+import os
+import sys
 import tensorflow.contrib.tensorrt as trt
 from tf_trt_models.detection import build_detection_graph
 from tx2_config import MODEL, DATA_DIR, CONFIG_FILE, CHECKPOINT_FILE, SERIAL_FILE
-from common.colors import cprint
+sys.path.insert(0,os.path.join(os.getcwd(), 'common'))
+from colors import cprint
+#cprint=common.colors.cprint
 
 cprint('Freezing tensorflow graph...','blue')
 try:
