@@ -58,7 +58,7 @@ class DetectorAPI:
         self.sess.close()
         self.default_graph.close()
 
-model_path = 'ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb'
+model_path = 'human_detection/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb'
 odapi = DetectorAPI(path_to_ckpt=model_path)
 threshold = 0.5
 
